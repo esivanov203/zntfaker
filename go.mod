@@ -1,3 +1,3 @@
-module git.dev.zenit.ru/crm/golang/zntfaker
+module github.com/esivanov203/zntfaker
 
 go 1.23
